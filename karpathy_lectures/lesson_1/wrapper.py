@@ -11,4 +11,6 @@ def say_hello():
 
 say_hello()
 
+# Output:
+
 # This function is called a wrapper and allows you to do things before and after the function is called.
